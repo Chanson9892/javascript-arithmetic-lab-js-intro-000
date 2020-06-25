@@ -9,7 +9,7 @@ function subtract(){
 }
 
 function multiply(){
-  number *= 10
+  number *= 1
 }
 
 function divide() {
