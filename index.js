@@ -1,5 +1,5 @@
 var number = 10
- 
+
 function add() {
   number++
 }
@@ -7,7 +7,7 @@ function add() {
 function subtract(){
   number--
 }
- 
+
 function divide() {
   number
 }
