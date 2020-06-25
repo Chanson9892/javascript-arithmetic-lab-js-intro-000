@@ -17,9 +17,9 @@ function divide() {
 }
 
 function increment(n){
-  number += n
+  number += 1
 }
 
 function decrement(n){
-  number -= n
+  number -= 1
 }
