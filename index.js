@@ -15,3 +15,11 @@ function multiply(){
 function divide() {
   number /= 1
 }
+
+function increment(n){
+  number += n 
+}
+
+function decrement(n){
+  number -= n 
+}
