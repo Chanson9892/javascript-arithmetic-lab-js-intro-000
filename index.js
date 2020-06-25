@@ -8,6 +8,10 @@ function subtract(){
   number--
 }
 
+function multiply(){
+  number *= 
+}
+
 function divide() {
   number
 }
