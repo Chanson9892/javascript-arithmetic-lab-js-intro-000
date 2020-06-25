@@ -7,12 +7,12 @@ function subtract(a,b){
   return a - b
 }
 
-function multiply(){
-  number *= 1
+function multiply(a,b){
+  return a*b
 }
 
-function divide() {
-  number /= 1
+function divide(a,b) {
+  return return a/b
 }
 
 function increment(n){
